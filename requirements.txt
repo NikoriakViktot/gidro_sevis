@@ -1,0 +1,12 @@
+requests==2.28.2
+beautifulsoup4==4.11.2
+webdriver-manager==3.8.5
+selenium==4.8.2
+virtualenv
+python-dotenv==1.0.0
+fastapi==0.92.0
+uvicorn==0.20.0
+envparse==0.2.0
+motor==3.0.0
+
+
